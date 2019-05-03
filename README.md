@@ -21,7 +21,7 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 
 ## First observations
 
-* idle power consumption - vanilla: 7-8W - with tlp: 5-6W
+* idle power consumption - vanilla: 7-8W - with tlp: 5-6W . I am aiming for 10hrs of light usage...let's see!
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
 * idle CPU temps: 37-40 degrees celsius
 ```bash
