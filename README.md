@@ -2,6 +2,7 @@
 Linux Mint 19 on Lenovo Thinkpad t490s
 
 ## Build quality compared to X1C6
+* the palm top and overall case seems less prone to fingerprints
 * very similar in terms of build quality / layout
 * worse keyboard than X1C6 but on first impression still good; all keys work okay
 * not so smooth clickpad surface, but nicely large area
