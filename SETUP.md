@@ -9,6 +9,11 @@ I choose "full harddisk encryption" with automated login and en_US locale
 sudo apt-get -y install vim unp tlp powertop cpufrequtils smartmontools
 sudo apt-get -y install xserver-xorg-input-synaptics
 sudo apt-get -y install keepassxc
+
+sudo add-apt-repository ppa:nextcloud-devs/client
+sudo add-apt-repository ppa:phoerious/keepassxc
+sudo apt update
+sudo apt install nextcloud-client keepassxc -y
 ```
 ## Tweaks
  * [X] Install latest updates
