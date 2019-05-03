@@ -1,5 +1,25 @@
 # LinuxMint-t490s
-Linux Mint 18 on Lenovo Thinkpad t490s
+Linux Mint 19 on Lenovo Thinkpad t490s
+
+## Build quality compared to X1C6
+* very similar in terms of build quality / layout
+* worse keyboard than X1C6 but on first impression still good; all keys work okay
+* not so smooth clickpad surface
+* display seems similar in brightness/contrast. Expected more nits but I cannot measure it!
+
+## LM 19 compatibility
+
+* [X] Wifi: I've upgraded to kernel 4.18 since I noticed some Wifi reconnects. So far no problems with wifi anymore.
+* [X] Touchpad+buttons+knob 
+* [X] SSD: > 2G/s reading speed, ~580M/s writing speed. Write speed seems too slow to me.
+* [X] Sound
+* [X] Suspend: S3 mode is supported
+
+## First observations
+
+* idle power consumption seems a bit high: 7-8W
+* upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
+
 
 ## System Info
 ```bash
