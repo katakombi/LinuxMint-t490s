@@ -29,7 +29,7 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 ```
 ## Improvements
 
-* BIOS: Disabled NFC, fingerprint/SC/MC reader, enabled Thunderbolt assist mode
+* BIOS: Disabled NFC, fingerprint/SC/MC reader, enabled Thunderbolt assist mode -> ~3.5W power consumption
 * installed `xorg synaptics` driver. I prefer its default settings for the clickpad
 
 
