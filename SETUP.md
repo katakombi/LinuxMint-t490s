@@ -7,8 +7,8 @@ I choose "full harddisk encryption" with automated login and en_US locale
 
 ```bash
 sudo apt-get -y install vim unp tlp powertop cpufrequtils smartmontools
-sudo apt-get -y install linux-image-4.18.0-18-generic
 sudo apt-get -y install xserver-xorg-input-synaptics
+sudo apt-get -y install keepassxc
 ```
 ## Tweaks
  * [X] Install latest updates
@@ -17,4 +17,6 @@ sudo apt-get -y install xserver-xorg-input-synaptics
  * [X] Disable natural scrolling under "Mouse Settings" -> "Touchpad"
  * [X] Enable permanent tray icon in "Display Settings"
  * [X] Add German/English keyboard layout and enable permanent tray icon. Enable "shift lock" to switch between layouts.
+ * [X] Customize Firefox: set search to DuckDuckGo, plugins: uBlock Origin, VDH, IDontCareAboutCookies, keepassxc
+ * [X] Upgrade to LM 19.1
  * ...
