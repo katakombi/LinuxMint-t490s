@@ -17,7 +17,7 @@ Linux Mint 19 on Lenovo Thinkpad t490s
 
 ## First observations
 
-* idle power consumption seems a bit high: 7-8W
+* idle power consumption - vanilla: 7-8W - with tlp: 5-6W
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
 
 
