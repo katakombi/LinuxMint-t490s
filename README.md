@@ -18,6 +18,7 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 * [X] SSD: > 2G/s reading speed, ~580M/s writing speed. Write speed seems too slow to me.
 * [X] Sound
 * [X] Suspend: S3 mode is supported
+* [X] WebCam throws a [kernel stack trace](issues/camera-stacktrace.md) but shows a picture anyways
 
 ## First observations
 
