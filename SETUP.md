@@ -24,4 +24,14 @@ sudo apt install nextcloud-client keepassxc -y
  * [X] Add German/English keyboard layout and enable permanent tray icon. Enable "shift lock" to switch between layouts.
  * [X] Customize Firefox: set search to DuckDuckGo, plugins: uBlock Origin, VDH, IDontCareAboutCookies, keepassxc
  * [X] Upgrade to LM 19.1
+ * [X] Upgrade to kernel 4.18
  * ...
+
+## TODOs
+ * [X] undervolting
+ * [X] setup wallpaper script
+ * [X] optimize panel color / theme coloring / fonts
+ * [X] setup pgp keys
+ * [X] setup thunderbird+mail accounts
+ * [X] try Linux Intel GFX optimizations (fbc, guc, ...)
+ * [X] test latest mesa with iris+vk
