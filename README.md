@@ -27,10 +27,14 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 ```bash
 
 ```
+## Improvements
+
+* BIOS: Disabled NFC, fingerprint/SC/MC reader, enabled Thunderbolt assist mode
+* installed `xorg synaptics` driver. I prefer its default settings for the clickpad
 
 
 ## System Info
-```bash
+```
 inxi -F
 System:    Host: theon Kernel: 4.18.0-18-generic x86_64 bits: 64 Desktop: MATE 1.20.1
            Distro: Linux Mint 19 Tara
@@ -59,7 +63,7 @@ Info:      Processes: 231 Uptime: 47 min Memory: 1032.6/15849.5MB Client: Shell 
 ```
 
 ## DMESG output
-```bash
+```
 dmesg 
 [    0.000000] Linux version 4.18.0-18-generic (buildd@lcy01-amd64-006) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #19~18.04.1-Ubuntu SMP Fri Apr 5 10:22:13 UTC 2019 (Ubuntu 4.18.0-18.19~18.04.1-generic 4.18.20)
 [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.18.0-18-generic root=UUID=e67693dd-0b08-4984-9e5e-b84cbe9e8a9f ro quiet splash vt.handoff=1
