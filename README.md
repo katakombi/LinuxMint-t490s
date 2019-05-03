@@ -19,6 +19,10 @@ Linux Mint 19 on Lenovo Thinkpad t490s
 
 * idle power consumption - vanilla: 7-8W - with tlp: 5-6W
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
+* idle CPU temps: 37-40 degrees celsius
+```bash
+
+```
 
 
 ## System Info
