@@ -33,6 +33,8 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 
 * BIOS: Disabled NFC, fingerprint/SC/MC reader, enabled Thunderbolt assist mode -> ~3.5W idle power consumption
 * installed `xorg synaptics` driver. I prefer its default settings for the clickpad
+* upgraded to Bios 1.09 using `fwmgr`
+* Obtaining <2.3W idle power usage when adding these params to `/etc/default/grub`:  `i915.enable_fbc=1 i915.enable_psr=1`
 
 
 ## System Info
