@@ -32,8 +32,7 @@ It was also much cheaper and features almost the same specs. Given no bad things
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
 * idle CPU temps: 32-34 degrees celsius / after booting: 37-40 degrees celsius
 * WLAN transmission speed is 3.5Mb/s on battery / >5Mb/s on AC
-* Probably CPU throttling works similar to t480s. Fan is not starting immediately as some other had reported. Even when running Geekbench4 / Unigine Heaven the machine just gets moderately warm and fans are not running constantly. While this is convenient for mobile use I assume performance could still be increased substancially by tweaking the throttle temperature. I didn't find a way to do this successfully, though.
-
+* Probably CPU throttled similar like t480s. Fan is not starting immediately as some other had reported. Even when running Geekbench4 / Unigine Heaven the machine just gets moderately warm and fans are not running constantly. While this is convenient for mobile use I assume performance could still be increased substancially by tweaking the throttle temperature. I didn't find a way to do this successfully, though.
 ```bash
 
 ```
