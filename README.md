@@ -28,6 +28,7 @@ It was also much cheaper and features almost the same specs. Given no bad things
 
 ## First observations
 
+* FHD Display panel `AUO B140HAN05.7` - this is not the same FHD panel as the one used in the X1C6
 * idle power consumption - vanilla: 7-8W - with tlp: 5-6W . I am aiming for 10hrs of light usage...let's see!
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
 * idle CPU temps: 32-34 degrees celsius / after booting: 37-40 degrees celsius
