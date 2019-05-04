@@ -1,8 +1,14 @@
 # LinuxMint-t490s
 Linux Mint 19 on Lenovo Thinkpad t490s. 
-## Background:
+
+## Background
 This is the `i5/16G/512G/FHD` German Lenovo Campus model for 1995Eur (open-box discount).
 In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but I had it returned due to lack of Linux compatibility. Although it is a very new release it seems that the t490s better suited for Linux.
+
+## Verdict
+### After one day of intense testing & usage
+I am pleasantly surprised how well this machine runs out-of-the-box with LM19, especially since the X1C6 had plenty of problems.
+It was also much cheaper and features almost the same specs. Given no bad things will pop up I think I'm gonna keep it this time.
 
 ## Build quality compared to X1C6
 * the palm top and overall case seems less prone to fingerprints
@@ -26,6 +32,8 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 * upower daemon once went crazy and bogged all CPU+RAM. Cause unknown; had to kill it
 * idle CPU temps: 32-34 degrees celsius / after booting: 37-40 degrees celsius
 * WLAN transmission speed is 3.5Mb/s on battery / >5Mb/s on AC
+* Probably CPU throttling works similar to t480s. Fan is not starting immediately as some other had reported. Even when running Geekbench4 / Unigine Heaven the machine just gets moderately warm and fans are not running constantly. While this is convenient for mobile use I assume performance could still be increased substancially by tweaking the throttle temperature. I didn't find a way to do this successfully, though.
+
 ```bash
 
 ```
