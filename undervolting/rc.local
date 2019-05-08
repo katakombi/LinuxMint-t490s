@@ -11,6 +11,9 @@
 
 # apply undervolting...
 
+# e6600000  -200mv
+# e9a00000  -175mv
+# eb800000  -160mv
 # ecc00000  -150mv
 # ee000000  -140.6mv
 # f0000000  -125mv
@@ -22,10 +25,10 @@
 
 echo '[throttling] undervolting... '
 
-echo '[throttling] CPU_CORE -150mv'
-wrmsr 0x150 0x80000011ecc00000
-echo '[throttling] IntelGPU -125mv'
-wrmsr 0x150 0x80000111f0000000
+echo '[throttling] CPU_CORE -175mv'
+wrmsr 0x150 0x80000011e9a00000
+echo '[throttling] IntelGPU -175mv'
+wrmsr 0x150 0x80000111e9a00000
 echo '[throttling] SystemAgent -100mv'
 wrmsr 0x150 0x80000211f3400000
 echo '[throttling] Analog IO -100mv'
