@@ -25,7 +25,7 @@ It was also much cheaper and features almost the same specs. Given no bad things
 * [X] Sound
 * [X] Suspend: S3 mode is supported
 * [X] WebCam throws a [kernel stack trace](issues/camera-stacktrace.md) but shows a picture anyways
-* [ ] equipped RJ45 adapter doesn't seem to work under Linux. I even don't know what interface this is using...
+* [X] equipped RJ45 adapter seems to work under Linux when a cable is being connected although transmissions were slow and flaky. Need to check this further...
 
 ## First observations
 
