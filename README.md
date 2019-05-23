@@ -5,11 +5,6 @@ Linux Mint 19 on Lenovo Thinkpad t490s.
 This is the `i5/16G/512G/FHD` German Lenovo Campus model for 1995Eur (open-box discount).
 In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but I had it returned due to lack of Linux compatibility. Although it is a very new release it seems that the t490s better suited for Linux.
 
-## Verdict
-### After one day of intense testing & usage
-I am pleasantly surprised how well this machine runs out-of-the-box with LM19, especially since the X1C6 had plenty of problems.
-It was also much cheaper and features almost the same specs. Given no bad things will pop up I think I'm gonna keep it this time.
-
 ## Build quality compared to X1C6
 * the palm top and overall case seems less prone to fingerprints
 * very similar in terms of build quality / layout
@@ -35,6 +30,24 @@ It was also much cheaper and features almost the same specs. Given no bad things
 * idle CPU temps: 32-34 degrees celsius / after booting: 37-40 degrees celsius
 * WLAN transmission speed is 3.5Mb/s on battery / >5Mb/s on AC
 * Probably CPU throttled similar to t480s. Fan is not starting immediately as some other had reported. Even when running Geekbench4 / Unigine Heaven the machine just gets moderately warm and fans are not running constantly. While this is convenient for mobile use I assume performance could still be increased substancially by tweaking the throttle temperature. I didn't find a way to do this successfully, though.
+
+## What I like
+
+* Great Linux compatibility
+* Display contrast and brightness
+* Battery Life (usually 10hrs mixed usage: watching Amazon Prime HD,browsing,email,coding)
+* Performance okay while staying cool. Fan pretty quiet and doesn't run often though
+
+## What I don't like
+
+* Lid is hard to open. I need both hands and yet it is hard to get the grip. No idea why designers didn't figure this out.
+* The touch of the overall material is cold and slippery. While I don't care about the outer chassis, I find it displeasing for the palm rest parts.
+* I favored the glass surface of the X1C click pad
+
+
+## Verdict
+I am pleasantly surprised how well this machine runs out-of-the-box with LM19, especially since the X1C6 had plenty of problems.
+It was also much cheaper and features almost the same specs. Given no bad things will pop up I think I'm gonna keep it this time. For me it was really the best choice out of the new-gen T-models as I expect the upcoming T495 to have worse Linux compatibility and battery time.
 
 ## Improvements
 
