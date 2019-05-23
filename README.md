@@ -36,6 +36,7 @@ In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but
 * Great Linux compatibility
 * Display contrast and brightness
 * Battery Life (usually 10hrs mixed usage: watching Amazon Prime HD,browsing,email,coding)
+* Keyboard - although I still prefer my Dell Latitudes cherry keyboard!
 * Performance okay while staying cool. Fan pretty quiet and doesn't run often though
 
 ## What I don't like
