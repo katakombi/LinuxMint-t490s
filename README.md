@@ -2,7 +2,7 @@
 Linux Mint 19 on Lenovo Thinkpad t490s. 
 
 ## Background
-This is the `i5/16G/512G/FHD` German Lenovo Campus model for 1995Eur (open-box discount).
+This is the `i5/16G/512G/FHD` German Lenovo Campus model for 1195Eur (open-box discount).
 In autumn 2018 I've bought a `i7/16G/512G/FHD` X1C6 Campus Model for 1550Eur but I had it returned due to lack of Linux compatibility. Although it is a very new release it seems that the t490s better suited for Linux.
 
 ## Build quality compared to X1C6
